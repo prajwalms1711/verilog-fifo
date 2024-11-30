@@ -1,5 +1,3 @@
-# verilog-fifo
-A synchronous Verilog implementation of a circular buffer FIFO
 # Verilog FIFO Implementation
 
 This repository contains a **synchronous FIFO (First-In-First-Out)** buffer implemented in Verilog. The design uses a circular buffer approach to efficiently store and retrieve data in a queue-like manner.
